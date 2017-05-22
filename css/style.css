@@ -18,7 +18,7 @@ body {
 header {
 	width: 100%;
 	background: #eeeeee;
-	padding-bottom: 65px;
+	padding-bottom: 80px;
 }
 /*Логотип*/
 .logotype {
@@ -227,36 +227,3 @@ footer {
 
 
 
-/*------------------------------------*\
-    $SHOPHEADER
-\*------------------------------------*/
-.shop {
-	padding-bottom: 200px;
-}
-.browser img{
-	float: left;
-	padding-right: 40px;
-}
-.sedona img{
-	float: left;
-	
-}
-.barbershop img{
-	float: left;
-	padding-right: 40px;
-	
-}
-.mishka img{
-	float: left;
-	padding-right: 100px;
-	
-}
-.aplu img{
-	float: left;
-	padding-right: 30px;
-	
-}
-.kvast img{
-	float: left;
-	
-}
